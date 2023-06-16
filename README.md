@@ -1,7 +1,6 @@
-# Bigmart---Sales-Prediction
-A Machine learning project which will predict future by analyzing historical data
 # BigMart Sales Prediction
 
+A Machine learning project which will predict future by analyzing historical data
 This project aims to predict the sales of various products in BigMart outlets using machine learning techniques. By analyzing historical sales data, we can develop a predictive model that can estimate future sales and help the company make informed business decisions.
 
 ## Dataset
